@@ -3,3 +3,7 @@ function hello(){
 	//commento!
 	/*secondo commento!*/
 }
+
+function modif(){
+	console.log("modifiche!");
+}
