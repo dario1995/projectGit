@@ -11,3 +11,7 @@ function modif(){
 	//commento nella funzione modif
 }
 
+function diTerzi(){
+	console.log("modifiche di terzi!");
+}
+
