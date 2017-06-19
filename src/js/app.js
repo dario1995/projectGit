@@ -11,3 +11,7 @@ function modif(){
 	//commento nella funzione modif
 }
 
+function mieModif(){
+	console.log("le mie modifiche!");
+}
+
