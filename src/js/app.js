@@ -15,3 +15,7 @@ function mieModif(){
 	console.log("le mie modifiche!");
 }
 
+function diTerzi(){
+	console.log("modifiche di terzi!");
+}
+
