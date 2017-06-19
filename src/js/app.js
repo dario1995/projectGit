@@ -4,7 +4,7 @@ function hello(){
 	/*secondo commento!*/
 	// terzo commento!
 }
-}
+
 
 function modif(){
 	console.log("modifiche!");
